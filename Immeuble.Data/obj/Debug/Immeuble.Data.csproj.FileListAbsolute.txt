@@ -1,0 +1,15 @@
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\Immeuble.Data.dll.config
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\Immeuble.Data.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\Immeuble.Data.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\EntityFramework.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\Immeuble.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\Immeuble.pdb
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\EntityFramework.xml
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\obj\Debug\Immeuble.Data.csprojResolveAssemblyReference.cache
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\obj\Debug\Immeuble.Data.Migrations.InitialCreate.resources
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\obj\Debug\Immeuble.Data.Migrations._new.resources
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\obj\Debug\Immeuble.Data.csproj.GenerateResource.Cache
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\obj\Debug\Immeuble.Data.dll
+C:\Users\zeineb\documents\visual studio 2015\Projects\ImmeubleSolution\Immeuble.Data\obj\Debug\Immeuble.Data.pdb

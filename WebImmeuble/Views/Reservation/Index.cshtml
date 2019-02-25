@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Immeuble.Entities.ReservationVM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreJour)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrixTotal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateDebut)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Saison)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodeBungalow)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CIN)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreJour)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrixTotal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateDebut)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Saison)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodeBungalow)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CIN)
+        </td>
+        
+        <td>
+           
+            @Html.ActionLink("DétailsBungalow", "Details", new {id=item.CodeBungalow}) |
+            
+        </td>
+    </tr>
+}
+
+</table>

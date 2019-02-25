@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Immeuble.Entities.Locataire">
+    <Position X="7.25" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAKAAAAAAAEA=</HashCode>
+      <FileName>Entities\Locataire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Immeuble.Entities.Option">
+    <Position X="2" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Option.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Immeuble.Entities.Reservation">
+    <Position X="5.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAACAAAAAAAAAAAgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Immeuble.Entities.Bungalow">
+    <Position X="4.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQQAAQAAAAAAIAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Entities\Bungalow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Immeuble.Entities.Commodite">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAgAAgAABAAAAAAAAEAAABAA=</HashCode>
+      <FileName>Entities\Commodite.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

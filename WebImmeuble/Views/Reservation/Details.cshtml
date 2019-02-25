@@ -1,0 +1,50 @@
+﻿@model WebImmeuble.Models.BungalowVM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>BungalowVM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CodeBungalow)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodeBungalow)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrixChambre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrixChambre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreChambre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreChambre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descriptif)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descriptif)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
